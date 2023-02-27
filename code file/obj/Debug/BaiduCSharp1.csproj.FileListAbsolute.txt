@@ -1,0 +1,12 @@
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\bin\Debug\BaiduCSharp1.exe.config
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\bin\Debug\BaiduCSharp1.exe
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\bin\Debug\BaiduCSharp1.pdb
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.Form1.resources
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.Properties.Resources.resources
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.csproj.GenerateResource.Cache
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.csproj.CoreCompileInputs.cache
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.exe
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.pdb
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.csprojResolveAssemblyReference.cache
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.FormPerson.resources
+D:\MyCode\BaiduCSharp1\BaiduCSharp1\obj\Debug\BaiduCSharp1.FormDevice.resources
