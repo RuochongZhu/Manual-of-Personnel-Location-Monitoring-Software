@@ -1,3 +1,3 @@
-# location-software
-location software
+# Manual of Personnel Location Monitoring Software
+Manual of Personnel Location Monitoring Software
 This software can realize the collection of personnel location information.
